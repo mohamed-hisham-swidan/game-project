@@ -36,6 +36,7 @@ def show_leaderboard():
         win_rate = f"{(wins/games*100):.1f}%" if games > 0 else "N/A"
         print(f"{player:<15}{wins:<8}{games:<8}{win_rate:<8}")
     print("="*30 + "\n")
+    # test
 
 
 
