@@ -11,10 +11,10 @@ A modular, text-based Python game engine showcasing core programming concepts, a
 
 ## 🎯Goal
 This project serves as a practical sandbox for mastering:
-- Clean code and Project Structure.
-- Advanced Object-Oriented Programming (OOP) in Python.
+- Train clean code and project structure.
+- Learn OOP principles in Python.
 - Data persistence and file I/O.
-- Git workflow and Open-Source collaboration.
+- Git workflow and just for learning🙂
 
 ## 💻Installation and How to Run
 
