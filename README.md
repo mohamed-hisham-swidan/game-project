@@ -23,7 +23,7 @@ This project serves as a practical sandbox for mastering:
    git clone [https://github.com/mohamed-hisham-swidan/game-project.git](https://github.com/mohamed-hisham-swidan/game-project.git)
    cd game-project
 
-##🎮 How to Play
+## 🎮 How to Play
  -Launch the game using the command above.
  -run the main file
  -chose play then game mode
@@ -32,12 +32,12 @@ This project serves as a practical sandbox for mastering:
 
 Battle against the AI, climb the leaderboard, and your progress will automatically save!
 
-##🤝 Contributing
+## 🤝 Contributing
 ok guys
  - guys pls issues i want to see any issue 🙃
  - pls someone help me chose the next feature should i add🤔
 
 
-##👤 Author
+## 👤 Author
 hmm
 - Mohamed Hisham Swidan(me)
