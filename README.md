@@ -24,15 +24,17 @@ This project serves as a practical sandbox for mastering:
    cd game-project
 
 ##🎮 How to Play
--Launch the game using the command above.
--run the main file
--chose play then game mode
--just enjoy the game😐
+ -Launch the game using the command above.
+ -run the main file
+ -chose play then game mode
+ -just enjoy the game😐
+ 
 
 Battle against the AI, climb the leaderboard, and your progress will automatically save!
 
-🤝 Contributing
-Contributions are welcome! If you want to optimize the AI, add new character classes, or enhance the CLI interface, feel free to open an Issue or submit a Pull Request.
+##🤝 Contributing
+-guys pls issues i want to see any issue 🙃
+-pls someone help me chose the next feature should i add🤔
 
-👤 Author
-Mohamed Hisham - GitHub Profile
+##👤 Author
+Mohamed Hisham Swidan
