@@ -33,9 +33,11 @@ This project serves as a practical sandbox for mastering:
 Battle against the AI, climb the leaderboard, and your progress will automatically save!
 
 ##🤝 Contributing
- -guys pls issues i want to see any issue 🙃
- -pls someone help me chose the next feature should i add🤔
+ok guys
+ - guys pls issues i want to see any issue 🙃
+ - pls someone help me chose the next feature should i add🤔
 
 
 ##👤 Author
+hmm
 - Mohamed Hisham Swidan(me)
